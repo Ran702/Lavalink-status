@@ -7,7 +7,7 @@ module.exports = {
 
   nodes: [
     {
-      host: "ro-premium.pylex.xyz", // Your lavalink host address 
+      host: "eu-ro-01.wisp.uno", // Your lavalink host address 
       password: "limapuluh", // Your lavalink password
       port: 9380, // Your lavalink port
       identifier: "Node", // Name for your lavalink
